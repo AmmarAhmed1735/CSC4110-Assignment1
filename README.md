@@ -1,4 +1,3 @@
-#GITHUB and GIT
 # README
 
 - **Name:** [ Ammar Ahmed ]
